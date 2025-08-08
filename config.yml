@@ -46,11 +46,11 @@ tagline: >-
 # target: `_blank` opens in a new tab, `_self` opens in the same frame
 links:
   - link:
-      icon: "fa-brands fa-medium"
+      icon: "fa-brands fa-twitter"
       text: "Tech Blog <span class='link-button-text'>({{vars.MediumFollowersCountPlugin}} Followers)</span>"
-      url: "https://blog.zhgchg.li"
-      alt: "ZhgChgLi's Tech Blog"
-      title: "ZhgChgLi's Tech Blog"
+      url: "https://x.com/PunchingCat"
+      alt: "X"
+      title: "Follow me on X"
       target: "_blank"
   - link:
       icon: "fa-brands fa-medium"
