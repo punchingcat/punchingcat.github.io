@@ -13,7 +13,7 @@ lang: "en"
 plugins:
   # Automatically fetch Medium follower count
   - MediumFollowersCountPlugin:
-      username: zhgchgli
+      username: punchingcat
   # Automatically fetch Github repo star count
   - GithubRepoStarsCountPlugin:
       - ZhgChgLi/ZMarkupParser
@@ -31,11 +31,11 @@ title: "ZhgChgLi's Links"
 avatar: "./images/profile.jpeg"
 
 # Name section text
-name: "@zhgchgli"
+name: "@punchingcat"
 
 # Tagline section text
 tagline: >-
-    An iOS, web, and automation developer from Taiwan 🇹🇼 who also loves sharing, traveling, and writing.
+    Follow me :3
 
 # List of links
 # icon: Use Font Awesome icons (https://fontawesome.com/search?o=r&m=free)
@@ -117,8 +117,8 @@ socials:
       target: "_blank"
   - social:
       icon: "fa-brands fa-twitter"
-      url: "https://twitter.com/zhgchgli"
-      title: "ZhgChgLi's Twitter"
+      url: "https://x.com/PunchingCat"
+      title: "X"
       alt: "ZhgChgLi's Twitter"
       target: "_blank"
   - social:
